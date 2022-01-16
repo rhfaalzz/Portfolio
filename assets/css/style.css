@@ -584,6 +584,11 @@ section {
   opacity: 0.4;
   transition: 0.3s;
 }
+#portfolio .portfolio-item .portfolio-wrap.nohover:hover img {
+  opacity:100 ;
+  transition: 0.3s;
+}
+
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info {
   position: absolute;
   top: 0;
